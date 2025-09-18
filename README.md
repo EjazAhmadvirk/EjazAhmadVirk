@@ -6,8 +6,137 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ejazahmad001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itx_ejaz_virk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ejaz-ahmad-virk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ejazahmadvirk091@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 💻 Tech Stack:<!-- 🌐 Two-column layout: Tech-Stack (left) | Highlights (right) -->
+<table width="100%" align="center">
+  <tr>
+    <!-- ░░░ LEFT COLUMN ░░░ -->
+    <td valign="top" width="55%">
+      <!-- 🔹 YOUR ORIGINAL TECH-STACK BLOCK — unchanged -->
+      <div align="center">
+        <!-- ============  TECH STACK GRID  ============ -->
+        <table width="100%">
+          <!-- ░░░ ROW 1 ░░░ -->
+          <tr>
+            <!-- Front-End -->
+            <td align="center" valign="top">
+              <strong>⚡ Front&nbsp;End</strong><br/>
+              <table>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=html" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=css" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=js" /></td>
+                </tr>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=ts" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=react" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=nextjs" /></td>
+                </tr>
+              </table>
+            </td>
+            <!-- Agentic / Data-Sci -->
+            <td align="center" valign="top">
+              <strong>🤖 Agentic&nbsp;/&nbsp;Data</strong><br/>
+              <table>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=python" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=pytorch" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=tensorflow" /></td>
+                </tr>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=sklearn" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=pandas" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=jupyter" /></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- ░░░ ROW 2 ░░░ -->
+          <tr>
+            <!-- Back-End -->
+            <td align="center" valign="top">
+              <strong>🛠️ Back&nbsp;End</strong><br/>
+              <table>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=nodejs" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=express" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=fastapi" /></td>
+                </tr>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=django" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=postgres" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=mongodb" /></td>
+                </tr>
+              </table>
+            </td>
+            <!-- Cloud / DevOps -->
+            <td align="center" valign="top">
+              <strong>☁️ Cloud&nbsp;&amp;&nbsp;DevOps</strong><br/>
+              <table>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=cloudflare" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=nginx" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=docker" /></td>
+                </tr>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=kubernetes" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=git" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=rabbitmq" /></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- ░░░ ROW 3 ░░░ -->
+          <tr>
+            <!-- Databases -->
+            <td colspan="2" align="center" valign="top">
+              <strong>🗄️ Databases</strong><br/>
+              <table>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=postgres" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=mongodb" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=mysql" /></td>
+                </tr>
+                <tr>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=redis" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=supabase" /></td>
+                  <td><img width="40" src="https://skillicons.dev/icons?i=firebase" /></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <!-- ============ /TECH STACK GRID ============ -->
+      </div>
+    </td>
+    <!-- ░░░ RIGHT COLUMN ░░░ -->
+<!-- ░░░ RIGHT COLUMN ░░░ -->
+<td valign="top" width="45%">
+  <div>
+    <h3><u>👀 Glances</u></h3>
+    <ul>
+      <li>Agentic AI Engineer</li>
+      <li>Working In International Hackathons </li>
+      <li>Design the workflow first, build later</li>
+    </ul>
+    <h3><u>International Awards</u></h3>
+    <ul>
+      <li>CS50x Puzzle Day 2025 winner </li>
+    </ul>
+    <h3><u>📌 Work With Me</u></h3>
+    <ul>
+      <li>Connect on <a href="https://www.linkedin.com/in/ejaz-ahmad-virk/
+      ">LinkedIn</a>.</li>
+      <li>Email me at ejazahmadvirk091@gmail.com.</li>
+      <li>Book a mentorship call on TOP</li>
+    </ul>
+  </div>
+</td>
+
+  </tr>
+</table>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EjazAhmadVirk&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EjazAhmadVirk&theme=radical&hide_border=true)<br/>
