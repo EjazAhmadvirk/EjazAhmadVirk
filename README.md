@@ -1,3 +1,4 @@
+[![Hits](https://hits.sh/github.com/EjazAhmadvirk.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/EjazAhmadvirk/) 
 <h1 align="center">Hi 👋, I'm Ejaz Ahmad</h1>
 <h3 align="center">BSCS Student | Frontend Developer | Learning Full Stack & Generative AI</h3>
 👨‍💻 Passionate Computer Science student (BSCS) specializing in Data Science & Agentic AI<br><br>⚡ Strong in Programming Fundamentals (PF), OOP, and DSA (C++ & Python)<br><br>🌐 Learning and building projects in Web Development (HTML, CSS, JS, React, Node.js, Next.js, MongoDB, MySQL)<br><br>🤖 Exploring AI, Machine Learning, and Generative AI<br><br>📊 Hands-on experience with Database Design (MySQL, MongoDB)<br><br>🛠️ Built projects like Gym Management System, Warehouse Management System, Personal Portfolio ,AI Agents,  Full Responsive Websites<br><br>📚 Currently learning Linux, RAG (Retrieval Augmented Generation), and Power BI<br><br>🚀 Interested in Full Stack Development & AI-powered applications<br><br>📝 Sharing projects and updates on LinkedIn
@@ -138,9 +139,11 @@
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=EjazAhmadVirk&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EjazAhmadVirk&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EjazAhmadVirk&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
