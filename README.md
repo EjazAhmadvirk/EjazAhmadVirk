@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/pakistan/EjazAhmadvirk.svg)](https://user-badge.committers.top/pakistan/EjazAhmadvirk)
+
 [![Hits](https://hits.sh/github.com/EjazAhmadvirk.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/EjazAhmadvirk/) 
 <h1 align="center">Hi 👋, I'm Ejaz Ahmad</h1>
 <h3 align="center">BSCS Student | Frontend Developer | Learning Full Stack & Generative AI</h3>
