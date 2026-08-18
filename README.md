@@ -1,6 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/pakistan/EjazAhmadvirk.svg)](https://user-badge.committers.top/pakistan/EjazAhmadvirk)
-
-[![Hits](https://hits.sh/github.com/EjazAhmadvirk.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/EjazAhmadvirk/) 
 <h1 align="center">Hi 👋, I'm Ejaz Ahmad</h1>
 <h3 align="center">BSCS Student | Frontend Developer | Learning Full Stack & Generative AI</h3>
 👨‍💻 Passionate Computer Science student (BSCS) specializing in Data Science & Agentic AI<br><br>⚡ Strong in Programming Fundamentals (PF), OOP, and DSA (C++ & Python)<br><br>🌐 Learning and building projects in Web Development (HTML, CSS, JS, React, Node.js, Next.js, MongoDB, MySQL)<br><br>🤖 Exploring AI, Machine Learning, and Generative AI<br><br>📊 Hands-on experience with Database Design (MySQL, MongoDB)<br><br>🛠️ Built projects like Gym Management System, Warehouse Management System, Personal Portfolio ,AI Agents,  Full Responsive Websites<br><br>📚 Currently learning Linux, RAG (Retrieval Augmented Generation), and Power BI<br><br>🚀 Interested in Full Stack Development & AI-powered applications<br><br>📝 Sharing projects and updates on LinkedIn
